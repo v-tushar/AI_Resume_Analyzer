@@ -1,0 +1,381 @@
+
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:47             44 vitest-setup.ts
+-a----        04-02-2026     20:54            369 vitest.config.ts
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\app\components
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:47            993 ScoreBadge.test.tsx
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\app\lib
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:46            795 utils.test.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                @testing-library
+d-----        04-02-2026     20:45                @vitest
+d-----        04-02-2026     20:45                vitest
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\.bin
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            383 vitest
+-a----        04-02-2026     20:45            322 vitest.cmd
+-a----        04-02-2026     20:45            793 vitest.ps1
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\.vite
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:47                vitest
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @babel\helpers\lib\helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            396 classCheckPrivateStaticAccess
+                                                  .js
+-a----        04-02-2026     20:45            708 classCheckPrivateStaticAccess
+                                                  .js.map
+-a----        04-02-2026     20:45            418 classCheckPrivateStaticFieldD
+                                                  escriptor.js
+-a----        04-02-2026     20:45            700 classCheckPrivateStaticFieldD
+                                                  escriptor.js.map
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @babel\runtime\helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            272 classCheckPrivateStaticAccess
+                                                  .js
+-a----        04-02-2026     20:45            305 classCheckPrivateStaticFieldD
+                                                  escriptor.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @babel\runtime\helpers\esm
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            196 classCheckPrivateStaticAccess
+                                                  .js
+-a----        04-02-2026     20:45            232 classCheckPrivateStaticFieldD
+                                                  escriptor.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\dom\dist
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                @testing-library
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\dom\dist\queries
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           1335 test-id.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45             43 vitest.d.ts
+-a----        04-02-2026     20:45            103 vitest.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\dist
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            321 vitest.js
+-a----        04-02-2026     20:45            288 vitest.mjs
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                __tests__
+-a----        04-02-2026     20:45            302 vitest.d.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types\__tests__
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                vitest
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types\__tests__\bun
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           4035 bun-custom-expect-types.test.
+                                                  ts
+-a----        04-02-2026     20:45           5156 bun-types.test.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types\__tests__\jest
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           3975 jest-custom-expect-types.test
+                                                  .ts
+-a----        04-02-2026     20:45           5125 jest-types.test.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types\__tests__\jest-globals
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           3898 jest-globals-custom-expect-ty
+                                                  pes.test.ts
+-a----        04-02-2026     20:45           5170 jest-globals-types.test.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\jest-dom\types\__tests__\vitest
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           3891 vitest-custom-expect-types.te
+                                                  st.ts
+-a----        04-02-2026     20:45           5157 vitest-types.test.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @testing-library\react\dist
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                @testing-library
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\@types\node
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:37          82891 test.d.ts
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    @types\react-dom
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test-utils
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    call-bind-apply-helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\call-bound
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    caniuse-lite\data\features
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           2148 date-tolocaledatestring.js
+-a----        04-02-2026     20:45           2000 testfeat.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    dunder-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\err-code
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    err-code\test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36           5218 test.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    es-define-property
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\es-errors
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    es-object-atoms
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    function-bind
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\gensync
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    gensync\test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36          11019 index.test.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    get-intrinsic
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\get-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\gopd
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\has-symbols
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    has-symbols\test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36           2139 tests.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    is-core-module
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\isexe
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    jsdom\lib\jsdom\living\nodes
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           1158 SVGTests-impl.js
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\lz-string
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:45                tests
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    math-intrinsics
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\mime\src
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36           2334 test.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    object-inspect
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+-a----        04-02-2026     20:36            534 test-core-js.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    object-inspect\test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36           1530 quoteStyle.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    pretty-format\build\plugins
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            641 ReactTestComponent.d.ts
+-a----        04-02-2026     20:45           1881 ReactTestComponent.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    promise-retry
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    promise-retry\test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36           7385 test.js
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\qs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\react-dom
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:37            216 test-utils.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    react-dom\cjs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:37            793 react-dom-test-utils.developm
+                                                  ent.js
+-a----        04-02-2026     20:37            686 react-dom-test-utils.producti
+                                                  on.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    react-dropzone
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36            203 testSetup.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    react-dropzone\typings
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:37                tests
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\retry
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    retry\test\integration
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36            515 test-forever.js
+-a----        04-02-2026     20:36           6434 test-retry-operation.js
+-a----        04-02-2026     20:36           2682 test-retry-wrap.js
+-a----        04-02-2026     20:36           1779 test-timeouts.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    safer-buffer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:36          15735 tests.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    setprototypeof
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    side-channel
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    side-channel-list
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    side-channel-map
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    side-channel-weakmap
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        04-02-2026     20:36                test
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\siginfo
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            263 test.js
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\stackback
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            621 test.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    undici\docs\docs\best-practices
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45            648 writing-tests.md
+    Directory:
+    C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\vitest
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45             43 vitest.mjs
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    vitest\dist\chunks
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           9707 test.B8ej_ZHS.js
+    Directory: C:\Users\vanta\WebstormProjects\AI-Resume-Analyzer\node_modules\
+    vitest\dist\workers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04-02-2026     20:45           4326 runVmTests.js
